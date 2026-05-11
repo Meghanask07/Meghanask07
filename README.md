@@ -1,17 +1,18 @@
-## Hi I am Meghana sk
-Welcome to my Github profile
+# Hi, I'm Meghana 👋
 
-<!--
-**Meghanask07/Meghanask07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer passionate about building modern Android applications using Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Kotlin
+- Jetpack Compose
+- Firebase
+- Room Database
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- SpendSense Expense Tracker
+- Hampi AI Chatbot
+
+
+## 📍 Location
+Bengaluru, India
